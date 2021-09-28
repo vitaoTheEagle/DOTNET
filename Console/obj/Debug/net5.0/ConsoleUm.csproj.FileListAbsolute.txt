@@ -1,0 +1,16 @@
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.csproj.AssemblyReference.cache
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.AssemblyInfoInputs.cache
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.AssemblyInfo.cs
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.csproj.CoreCompileInputs.cache
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.exe
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.deps.json
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.runtimeconfig.json
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.runtimeconfig.dev.json
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.dll
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ref\ConsoleUm.dll
+C:\workspace\Digital Innovation One\DOTNET\Console\bin\Debug\net5.0\ConsoleUm.pdb
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.dll
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ref\ConsoleUm.dll
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.pdb
+C:\workspace\Digital Innovation One\DOTNET\Console\obj\Debug\net5.0\ConsoleUm.genruntimeconfig.cache

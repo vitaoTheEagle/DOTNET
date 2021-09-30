@@ -1,5 +1,7 @@
 # PROJETOS-DOTNET
-Projetos DotNet pela Digital Innovation
+
+
+## Projetos Console
 
 #### Preparando o Ambiente
 #### Criando uma aplicação Console
@@ -11,3 +13,7 @@ Projetos DotNet pela Digital Innovation
 #### Structs
 #### Interfaces
 #### Enums
+
+## Projeto Revisão
+
+#### Aplicação que liste nome de alunos e suas médias

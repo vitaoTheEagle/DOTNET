@@ -1,6 +1,7 @@
 # PROJETOS-DOTNET
 
 
+
 ## Projetos Console
 
 #### Preparando o Ambiente
@@ -14,6 +15,15 @@
 #### Interfaces
 #### Enums
 
+
+
 ## Projeto Revisão
 
 #### Aplicação que liste nome de alunos e suas médias
+
+
+
+## Aplicação de transferências bancárias com .NET
+
+#### Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.BANK\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.BANK\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.BANK\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.BANK\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\huugo\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\workspace\\Digital Innovation One\\DOTNET\\DIO.BANK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huugo\\AppData\\Roaming\\NuGet\\NuGet.Config"

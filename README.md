@@ -27,3 +27,7 @@
 
 #### Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
 
+## Aplicação de cadastro de Séries usando .NET
+
+#### Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.
+
